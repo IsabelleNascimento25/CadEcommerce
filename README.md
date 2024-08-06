@@ -23,6 +23,24 @@ Professor: Leonardo Santiago Sidon da Rocha.
 
 ## 📰Descrição
 Este projeto simples utiliza a API ViaCEP para obter informações de endereço a partir do CEP (código postal) fornecido. Ele permite consultar facilmente as informações de domicílio por meio de uma interface. Além disso, possui funcionalidades para adicionar produtos ao carrinho, criar categorias, marcas, gerenciar estoque, definir valores e status dos produtos, e processar pedidos.
+<br>
+A tela inicial para a criação do carrinho 
+<br>
+ <img src="Captura de tela 2024-08-06 080545.png" width="400%"> <br>
+<br>
+<br>
+ Quando adcionando no carrinho o tanto necessário:
+ <br>
+  <img src= "Captura de tela 2024-08-06 081438.png" width="100%"> <br>
+<br>
+  Sera adcionada a quantidade que o cliente acessou
+<br>
+ <img src="bancodedados" width="400%"> <br>
+<br>
+<br>
+
+  
+ 
 
 
 ## Estrutura do Projeto
@@ -52,7 +70,23 @@ Este projeto simples utiliza a API ViaCEP para obter informações de endereço 
 
 
 ## ⚙️Funcionalidades
+Aqui está uma lista com uma frase explicativa para cada trecho de código:
 
+1. **Página de Produtos (`index.php`):** 
+   - Exibe a lista de produtos disponíveis, incluindo um link para o carrinho e a inclusão de um script PHP para buscar e mostrar produtos.
+
+2. **Script de Adição ao Carrinho (`script.js`):** 
+   - Adiciona uma funcionalidade para solicitar a quantidade de produtos ao usuário e redirecionar para a URL de adição ao carrinho com a quantidade especificada.
+
+3. **Página do Carrinho (`carrinho.php`):** 
+   - Mostra os produtos atualmente no carrinho, com um link de navegação para a página inicial e a inclusão de um script PHP para buscar e exibir itens do carrinho.
+
+4. **Inserção de Nova Categoria, Marca e Produto:**
+   - Recebe uma descrição via POST, insere uma nova categoria no banco de dados e exibe uma mensagem de sucesso ou erro com base na execução da consulta SQL.
+   
+
+5. **Conexão com o Banco de Dados (`conexao.php`):** 
+   - Estabelece uma conexão com o banco de dados MySQL, configura o charset para UTF-8, e encerra o script se houver um erro de conexão.
     
  ## ✒️Autores
 
