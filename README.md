@@ -63,7 +63,7 @@ E voce tambem pode adcionar nova categoria, marca e produto
   CSS<br>
  <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
 
-* **PHP:** Lógica do servidor, incluindo a consulta à API ViaCEP e o gerenciamento do carrinho de compras. <br>
+* **BANCO DE DADOS:** Criando o banco de dados para a obtenção de informações <br>
 * **API ViaCEP:** Serviço web para consulta de CEPs. <br>
 
 
