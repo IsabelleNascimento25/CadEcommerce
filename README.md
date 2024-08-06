@@ -1,21 +1,28 @@
 # CadEcommerce
+# Índice
+[Projeto ](#projeto)  
+[Descrição](#descrição)  
+[Estrutura do Projeto](#Estrutura-do-Projeto)  
+[Funcionalidades](#funcionalidades)  
+[Tecnologias ultilizadas](#tecnologias-ultilizadas)    
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
-# Programação Web II - Pedido de Compra
 
-## Descrição
+# Projeto 
 Este projeto tem como objetivo demonstrar a utilização da API ViaCEP para buscar informações de endereços a partir de CEPs fornecidos pelo usuário. Além disso, o projeto permite a criação de um carrinho de compras básico, com funcionalidades como:
 
 * **Consulta de CEP:** Utiliza a API ViaCEP para obter informações detalhadas sobre um endereço, como logradouro, bairro, cidade e estado.
 * **Adição ao carrinho:** Permite adicionar produtos ao carrinho de compras, com informações como nome, preço, quantidade e categoria.
 * **Gerenciamento do carrinho:** Possibilita visualizar os itens adicionados ao carrinho, remover itens e realizar o cálculo do valor total da compra.
+<br><br>
+Disciplina:Programação Web I. <br>
+Professor: Leonardo Santiago Sidon da Rocha.
 
-## Tecnologias Utilizadas
-* **HTML:** Estruturação da página.
-* **CSS:** Estilização da página.
-* **JavaScript:** Interação com o usuário e manipulação do DOM.
-* **jQuery:** Facilitar o trabalho com JavaScript.
-* **PHP:** Lógica do servidor, incluindo a consulta à API ViaCEP e o gerenciamento do carrinho de compras.
-* **API ViaCEP:** Serviço web para consulta de CEPs.
+
+## 📰Descrição
+Este projeto simples utiliza a API ViaCEP para obter informações de endereço a partir do CEP (código postal) fornecido. Ele permite consultar facilmente as informações de domicílio por meio de uma interface. Além disso, possui funcionalidades para adicionar produtos ao carrinho, criar categorias, marcas, gerenciar estoque, definir valores e status dos produtos, e processar pedidos.
+
 
 ## Estrutura do Projeto
 * **index.php:** Página principal do projeto, onde o usuário realiza a consulta de CEP e visualiza os produtos disponíveis.
@@ -28,19 +35,33 @@ Este projeto tem como objetivo demonstrar a utilização da API ViaCEP para busc
 * **js/jquery-2.1.4.min.js:** Biblioteca jQuery.
 * **js/script.js:** Arquivo JavaScript com a lógica da aplicação.
 
-## Como Utilizar
-1. **Clonar o repositório:** Clone este repositório para sua máquina local utilizando o Git.
-2. **Configurar o servidor:** Configure um servidor web local (como Apache ou Nginx) para servir os arquivos do projeto.
-3. **Acessar a aplicação:** Abra um navegador e digite o endereço da sua aplicação local.
+<br>
+### 📱Tecnologias utilizadas <br><br>
+  PHP <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
+  JAVASCRIPT <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
+  HTML<br>
+  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  CSS<br>
+ <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+ 
+`Mysql ` <br>
+`SQL`
 
-## Contribuições
-Contribuições são bem-vindas! Para contribuir com este projeto, siga estes passos:
-1. Fork este repositório.
-2. Crie um novo branch para sua feature.
-3. Faça as suas alterações e commit.
-4. Envie um pull request.
+## ⚙️Funcionalidades
+
+    
+ ## ✒️Autores
+
+<br>
+Aluna: <br>
+<br>
+ <img src="imagens/isabelle.PNG" width="20px"> Isabelle Nascimento de Oliveira <br>
+<br>
+* Professor Anderson Macedo
+* Professor Leonardo Santiago Sidon da Rocha.
 
 
-**Gostaria de que eu adicione mais alguma informação ou detalhe à documentação?**
 
-**Observação:** Adapte este README.md de acordo com as especificidades do seu projeto e as convenções da sua equipe.
+
