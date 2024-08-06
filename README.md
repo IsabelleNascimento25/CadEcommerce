@@ -67,6 +67,7 @@ E voce tambem pode adcionar nova categoria, marca e produto
 * **API ViaCEP:** Serviço web para consulta de CEPs. <br>
 
 
+
 ## ⚙️Funcionalidades
 Aqui está uma lista com uma frase explicativa para cada trecho de código:
 
@@ -93,7 +94,7 @@ Aluna: <br>
 <br>
  <img src="imagens/isabelle.PNG" width="20px"> Isabelle Nascimento de Oliveira <br>
 <br>
-* Professor Anderson Macedo
+* Professor Anderson Macedo<br>
 * Professor Leonardo Santiago Sidon da Rocha.
 
 
