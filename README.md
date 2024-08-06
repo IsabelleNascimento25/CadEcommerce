@@ -35,13 +35,11 @@ A tela inicial para a criação do carrinho
 <br>
   Sera adcionada a quantidade que o cliente acessou
 <br>
- <img src="bancodedados" width="400%"> <br>
+ <img src="bancodedados.png" width="400%"> <br>
 <br>
 <br>
-
-  
- 
-
+<br>
+E voce tambem pode adcionar nova categoria, marca e produto
 
 ## Estrutura do Projeto
 * **index.php:** Página principal do projeto, onde o usuário realiza a consulta de CEP e visualiza os produtos disponíveis.
