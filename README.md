@@ -10,6 +10,7 @@
 
 
 # Projeto 
+PHP e conexão de dados.
 Este projeto tem como objetivo demonstrar a utilização da API ViaCEP para buscar informações de endereços a partir de CEPs fornecidos pelo usuário. Além disso, o projeto permite a criação de um carrinho de compras básico, com funcionalidades como:
 
 * **Consulta de CEP:** Utiliza a API ViaCEP para obter informações detalhadas sobre um endereço, como logradouro, bairro, cidade e estado.
@@ -45,9 +46,10 @@ Este projeto simples utiliza a API ViaCEP para obter informações de endereço 
   <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
   CSS<br>
  <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
- 
-`Mysql ` <br>
-`SQL`
+
+* **PHP:** Lógica do servidor, incluindo a consulta à API ViaCEP e o gerenciamento do carrinho de compras. <br>
+* **API ViaCEP:** Serviço web para consulta de CEPs. <br>
+
 
 ## ⚙️Funcionalidades
 
