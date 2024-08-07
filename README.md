@@ -7,6 +7,8 @@
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)    
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
+[Contribuindo no GitHub](#Contribuindo-no-GitHub)  
+
 
 
 # Projeto 
@@ -48,11 +50,11 @@ Tabela de dados utilizados:
 
 E você tambem pode adcionar nova categoria, marca e produto
 <br>
- <img src="image/exemplodeuso.png" width="400px"> <br>
+ <img src="image/exemplodeuso.png" width=" 100%"> <br>
 <br>
 Banco de dados do produto utilizado como exemplo:
 <br>
- <img src="image/exemplobanco.png" width="400px"> <br>
+ <img src="image/exemplobanco.png" width="100%"> <br>
 
 
 
@@ -86,9 +88,10 @@ Banco de dados do produto utilizado como exemplo:
 
 
 ## ⚙️Funcionalidades
+
+**Lista Geral**
 <br>
-**Lista geral:**
-<br>
+
 Aqui está uma lista com uma frase explicativa para cada trecho de código:
 <br>
 1. **Página de Produtos (`index.php`):** 
@@ -108,9 +111,10 @@ Aqui está uma lista com uma frase explicativa para cada trecho de código:
    - Estabelece uma conexão com o banco de dados MySQL, configura o charset para UTF-8, e encerra o script se houver um erro de conexão.
    <br>
 <br>
-**Ferramentas utilizadas:**
 <br>
-    ## **Descrição dos Métodos Utilizados:**
+  
+   **Descrição dos Métodos Utilizados**
+   <br>
 
 | Método                    | Descrição                                                                                       | Exemplo |
 | ------------------------- | -------------------------------------------------------------------------------------------------| ------- |
@@ -144,11 +148,19 @@ Aqui está uma lista com uma frase explicativa para cada trecho de código:
 <br>
 Aluna: <br>
 <br>
- <img src="image/isabelle.PNG" width="20px"> Isabelle Nascimento de Oliveira <br>
+ <img src="image/isabelle.png" width="60px"> Isabelle Nascimento de Oliveira <br>
 <br>
 * Professor Anderson Macedo<br>
 * Professor Leonardo Santiago Sidon da Rocha.
 
+## Contribuindo no GitHub
+
+**Se você encontrou um problema, deseja sugerir melhorias ou simplesmente quer dar um feedback sobre o projeto, você pode contribuir fazendo um fork do repositório. Após fazer o fork, você pode:**
+
+1. Fazer as modificações necessárias no seu repositório.
+2. Enviar um pull request para o repositório original.
+
+Agradeco sua contribuição!
 
 
 
