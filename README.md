@@ -8,13 +8,11 @@
 [Fontes consultadas](#fontes-consultadas)  
 [Autores](#autores)  
 [Contribuindo no GitHub](#Contribuindo-no-GitHub)  
-
-
-
+<br>
 # Projeto 
 PHP e conexão de dados.
 Este projeto tem como objetivo demonstrar a utilização da API ViaCEP para buscar informações de endereços a partir de CEPs fornecidos pelo usuário. Além disso, o projeto permite a criação de um carrinho de compras básico, com funcionalidades como:
-
+<br>
 * **Consulta de CEP:** Utiliza a API ViaCEP para obter informações detalhadas sobre um endereço, como logradouro, bairro, cidade e estado.
 * **Adição ao carrinho:** Permite adicionar produtos ao carrinho de compras, com informações como nome, preço, quantidade e categoria.
 * **Gerenciamento do carrinho:** Possibilita visualizar os itens adicionados ao carrinho, remover itens e realizar o cálculo do valor total da compra.
@@ -38,6 +36,7 @@ A tela inicial para a criação do carrinho
   <img src= "image/Captura de tela 2024-08-06 081438.png" width="100%"> <br>
 
 <br>
+<br>
   Sera adcionada a quantidade que o cliente acessou
 <br>
  <img src="image/bancodedados.png" width="400%"> <br>
@@ -55,32 +54,31 @@ E você tambem pode adcionar nova categoria, marca e produto
 Banco de dados do produto utilizado como exemplo:
 <br>
  <img src="image/exemplobanco.png" width="100%"> <br>
-
-
+<br>
 
 
 
 ## Estrutura do Projeto
-* **index.php:** Página principal do projeto, onde o usuário realiza a consulta de CEP e visualiza os produtos disponíveis.
-* **carrinho.php:** Página que exibe os itens adicionados ao carrinho e permite realizar o gerenciamento do mesmo.
-* **controller/produtos-busca.php:** Arquivo responsável por realizar a consulta à API ViaCEP e buscar as informações dos produtos.
-* **Produtos.class.php** O código define uma classe PHP chamada `Produtos` que contém métodos para gerenciar produtos, pedidos e clientes em um sistema de e-commerce, realizando operações como consultas SQL, inserções e manipulação de sessões.
-* **Cad/marca**  O código define uma classe PHP chamada `marca`.
-* ** Insere-marca.php/insere-produto.php/insere-categoria** código PHP insere uma nova categoria em um banco de dados com base em uma descrição fornecida via formulário, e exibe uma mensagem de sucesso ou erro.
-* **css/style.css:** Arquivo de estilo CSS para a página.
-* **js/jquery-2.1.4.min.js:** Biblioteca jQuery.
-* **js/script.js:** Arquivo JavaScript com a lógica da aplicação.
+* **index.php:** Página principal do projeto, onde o usuário realiza a consulta de CEP e visualiza os produtos disponíveis.<br>
+* **carrinho.php:** Página que exibe os itens adicionados ao carrinho e permite realizar o gerenciamento do mesmo.<br>
+* **controller/produtos-busca.php:** Arquivo responsável por realizar a consulta à API ViaCEP e buscar as informações dos produtos.<br>
+* **Produtos.class.php** O código define uma classe PHP chamada `Produtos` que contém métodos para gerenciar produtos, pedidos e clientes em um sistema de e-commerce, realizando operações como consultas SQL, inserções e manipulação de sessões.<br>
+* **Cad/marca**  O código define uma classe PHP chamada `marca`.<br>
+* ** Insere-marca.php/insere-produto.php/insere-categoria** código PHP insere uma nova categoria em um banco de dados com base em uma descrição fornecida via formulário, e exibe uma mensagem de sucesso ou erro.<br>
+* **css/style.css:** Arquivo de estilo CSS para a página.<br>
+* **js/jquery-2.1.4.min.js:** Biblioteca jQuery.<br>
+* **js/script.js:** Arquivo JavaScript com a lógica da aplicação.<br>
 
 <br>
 ### 📱Tecnologias utilizadas <br><br>
   PHP <br>
- <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg"> 
   JAVASCRIPT <br>
- <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <br>
+ <img alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   HTML<br>
-  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>
+  <img alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   CSS<br>
- <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
+ <img alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 * **BANCO DE DADOS:** Criando o banco de dados para a obtenção de informações <br>
 * **API ViaCEP:** Serviço web para consulta de CEPs. <br>
